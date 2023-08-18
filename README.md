@@ -24,11 +24,11 @@ This project will test your ability to build APIs with complex validation. Befor
     Writing custom middleware functions
 
 You will not need to make any edits to HTML or CSS for this project.
-GrubDash frontend
+GrubDash frontend 
 
 Although it isn't required, if you would like to see this project connected to a frontend application, visit the following repository:
 
-    Starter code: GrubDash frontend
+    Starter code: GrubDash [frontend](https://github.com/Thinkful-Ed/starter-grub-dash-front-end)
 
 Instructions on how to get the frontend application up and running are included in the repository.
 GrubDash frontend.
