@@ -28,7 +28,7 @@ GrubDash frontend
 
 Although it isn't required, if you would like to see this project connected to a frontend application, visit the following repository:
 
-    Starter code: GrubDash [frontend](https://github.com/Thinkful-Ed/starter-grub-dash-front-end)
+**Starter code: GrubDash [frontend](https://github.com/Thinkful-Ed/starter-grub-dash-front-end)**
 
 Instructions on how to get the frontend application up and running are included in the repository.
 GrubDash frontend.
